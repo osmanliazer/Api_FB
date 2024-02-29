@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PustokOnion.Aplication/1.0.0": {
+        "dependencies": {
+          "PustokOnion.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PustokOnion.Aplication.dll": {}
+        }
+      },
+      "PustokOnion.Domain/1.0.0": {
+        "runtime": {
+          "PustokOnion.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PustokOnion.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PustokOnion.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\bin\Debug\net6.0\PustokOnion.Aplication.deps.json
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\bin\Debug\net6.0\PustokOnion.Aplication.dll
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\bin\Debug\net6.0\PustokOnion.Aplication.pdb
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\bin\Debug\net6.0\PustokOnion.Domain.dll
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\bin\Debug\net6.0\PustokOnion.Domain.pdb
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\PustokOnion.Aplication.csproj.AssemblyReference.cache
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\PustokOnion.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\PustokOnion.Aplication.AssemblyInfoInputs.cache
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\PustokOnion.Aplication.AssemblyInfo.cs
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\PustokOnion.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\PustokOnion.Aplication.csproj.CopyComplete
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\PustokOnion.Aplication.dll
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\refint\PustokOnion.Aplication.dll
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\PustokOnion.Aplication.pdb
+C:\Users\ca.r214.06.CA\Desktop\New folder\PustokOnion\src\core\PustokOnion.Aplication\obj\Debug\net6.0\ref\PustokOnion.Aplication.dll
